@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div id="navbar">
       <div>NavBar</div>
-      <img   src={imageSrc} // Set the image source to the imported image
+      <img   src={pic} // Set the image source to the imported image
           style={{
             width: '130px', // Set the width of the image to '130px'
             height: '100px', // Set the height of the image to '100px'
